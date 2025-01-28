@@ -6,7 +6,8 @@ This comprehensive Hospital Management System is a Java-based desktop applicatio
 ## Application Screenshots
 
 ### Login Screen
-![image](https://github.com/user-attachments/assets/ec6734e0-56c2-417d-95ea-daa61e8a173f)
+![image](https://github.com/user-attachments/assets/d7febef4-abfd-4b90-8fc6-3556749910c9)
+
 
 
 ## Features
