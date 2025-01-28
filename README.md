@@ -3,6 +3,11 @@
 ## Overview
 This comprehensive Hospital Management System is a Java-based desktop application that provides a complete solution for managing hospital operations, appointments, and patient records. The system includes features for patients, doctors, and administrators, making it a versatile tool for healthcare facilities.
 
+### Project Contributors
+This project was developed collaboratively by:
+- Ulaş Demir
+- Emirhan Akdeniz @Emirhan_0535
+
 ## Application Screenshots
 
 ### Login Screen
